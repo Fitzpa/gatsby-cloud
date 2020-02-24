@@ -1,0 +1,19 @@
+.expense-tracker {
+  .inc-exp-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  .inc-exp-container div {
+    margin: 1rem;
+  }
+  .money {
+    .plus {
+      color: #008B00;
+    }
+    .minus {
+      color: #ff0000;
+    }
+  }
+}
