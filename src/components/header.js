@@ -26,7 +26,7 @@ const Header = ({ siteTitle }) => (
 					<div className="media-content">
 						<div className="content">
 							<h1 className="is-uppercase is-size-1 has-text-white">
-								Hello from Bulma + Gatsby
+								Louie Fitzpatrick Test
 							</h1>
 							<p className="subtitle has-text-white is-size-3">
 								A Bulma CSS + GatsbyJS Starter Kit{' '}
