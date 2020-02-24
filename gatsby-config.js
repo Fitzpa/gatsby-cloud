@@ -1,9 +1,9 @@
 module.exports = {
 	siteMetadata: {
-		title: 'Gatsby Bulma Quickstart',
-		author: 'Aman Mittal',
+		title: 'Gatsby Cloud + Bulma Project',
+		author: 'Louie Fitzpatrick',
 		imageUrl: 'https://i.imgur.com/Vz81GEl.png',
-		description: 'A Project to bootstrap your next Gatsby + Bulma site.',
+		description: 'A Project to test out gatsby cloud',
 		keywords: `Web developer, Web, Developer, CSS, HTML, JS, Javascript, Gatsby, Bulma Developer, CSS3, HTML5, Seo, Starter`,
 		twitter: 'https://twitter.com/amanhimself',
 		github: `https://github.com/amandeepmittal`,
