@@ -36,9 +36,9 @@ const Header = () => {
             <Link
               className={headerStyles.navItem}
               activeClassName={headerStyles.activeNavItem}
-              to="/expense-calculator"
+              to="/expense-tracker"
             >
-              Expense Calculator
+              Expense Tracker
             </Link>
           </li>
         </ul>
